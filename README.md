@@ -57,11 +57,17 @@ Các Framework hay sử dụng: **Laravel**, **Slim**, **Akka**
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32"> <img src="https://avatars.githubusercontent.com/u/1496237?s=48&v=4" width="32">
 
-## Các ngôn ngữ for fund
+## Các ngôn ngữ for fun
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 
+## Buy me a beer
 
+### ![MoMo](https://momo.vn/favicon-32x32.png)
+![Alt text](momo-qr.png)
+
+### ![Bank](https://www.vietcombank.com.vn/-/media/Project/VCB-Sites/VCB/Home-page/Footer/KHCN/VCB_color.svg)
+![Alt text](bank-qr.png)
 
 <!--
 **dotuancd/dotuancd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
