@@ -2,9 +2,9 @@
 
 Đang là *Software Enginner* tại [<img height="16" src="https://www.flinters.vn/img/logo-w.png" style="background-color:#000;">](https://www.flinters.vn/). Lĩnh vực và kiến thức chủ yếu về Backend. Hiểu biết sâu về PHP và Laravel. 
 
-- <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_1f3c3.png"><a href="https://utmb.world/runner/5188722.anhtuan.do" target="_blank"><img src="https://res.cloudinary.com/utmb-world/image/upload/q_auto/f_auto/c_fill,g_auto/if_w_gt_1920/c_scale,w_1920/if_end/v1/Common/categories/50K?_a=ATADJAA0" height="18"> **VMM 2023 Finisher**</a>
+- <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_1f3c3.png"><a href="https://utmb.world/runner/5188722.anhtuan.do" target="_blank"><img src="https://res.cloudinary.com/utmb-world/image/upload/q_auto/f_auto/c_fill,g_auto/c_scale,h_20/v1/Common/categories/50K?_a=ATADJAA0"> **VMM 2023 Finisher**</a>
 - <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png"> Đang làm về **Scala**
-- <img height="30" src="https://em-content.zobj.net/source/telegram/358/open-book_1f4d6.webp"> Đang tìm hiểu về **System Design**
+- <img height="30" src="https://em-content.zobj.net/source/facebook/355/open-book_1f4d6.png"> Đang tìm hiểu về **System Design**
 - ⚡Lúc rảnh chạy bộ ,  coding,  đọc sách
 
 
@@ -54,20 +54,12 @@ Các Framework hay sử dụng: **Laravel**, **Slim**, **Akka**
 | https://github.com/dotuancd/slim-eloquent | Demo tích hợp Laravel Eloquent vào Slim Framework | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="32"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="32"> |
 
 ## Các công cụ/ngôn ngữ hay dùng
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32">
-<img src="https://avatars.githubusercontent.com/u/1496237?s=48&v=4" width="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32"> <img src="https://avatars.githubusercontent.com/u/1496237?s=48&v=4" width="32">
 
 ## Các ngôn ngữ for fund
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 
 
 
