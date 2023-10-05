@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Tuấn!</h2>
 
-Đang là *Software Enginner* tại [<img height="16" src="https://www.flinters.vn/img/logo-w.png" style="background-color:#000;">](https://www.flinters.vn/). Lĩnh vực và kiến thức chủ yếu về Backend. Hiểu biết sâu về PHP và Laravel. 
+Đang là *Software Enginner* tại [FLINTERS](https://www.flinters.vn/). Lĩnh vực và kiến thức chủ yếu về Backend. Hiểu biết sâu về PHP và Laravel. 
 
 - <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_1f3c3.png"><a href="https://utmb.world/runner/5188722.anhtuan.do" target="_blank"><img src="https://res.cloudinary.com/utmb-world/image/upload/q_auto/f_auto/c_fill,g_auto/c_scale,h_20/v1/Common/categories/50K?_a=ATADJAA0"> **VMM 2023 Finisher**</a>
 - <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png"> Đang làm về **Scala**
