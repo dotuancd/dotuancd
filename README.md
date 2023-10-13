@@ -16,24 +16,24 @@ Các Framework hay sử dụng: **Laravel**, **Slim**, **Akka**
 ## Kết nối
 
 
-<a href="https://www.youtube.com/@300baicodethieunhi2/streams">
+<a target="_blank" href="https://www.youtube.com/@300baicodethieunhi2/streams">
     <img alt="Static Badge" src="https://img.shields.io/badge/youtube-%40300baicodethieunhi2-FF0000?logo=youtube&style=for-the-badge">
 </a>
-<a href="https://www.strava.com/athletes/36049511">
+<a target="_blank" href="https://www.strava.com/athletes/36049511">
     <img alt="Static Badge" src="https://img.shields.io/badge/Strava-%40dotuancd-FC4C02?style=for-the-badge&logo=strava&logoColor=white">
 </a>
 
 <a href="https://github.com/dotuancd">
     <img alt="Static Badge" src="https://img.shields.io/badge/github-%40dotuancd-181717?logo=github&style=for-the-badge">
 </a>
-<a href="">
+<a target="_blank" href="https://www.linkedin.com/in/dotuancd/">
     <img src="https://img.shields.io/badge/LinkedIn-%40dotuancd-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:dotuancd@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-dotuancd-EA4335?logo=gmail&style=for-the-badge&logoColor=white">
 </a>
-<a href="https://m.me/dotuancd">
+<a target="_blank" href="https://m.me/dotuancd">
     <img alt="Static Badge" src="https://img.shields.io/badge/messenger-%40dotuancd-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
 </a>
 
