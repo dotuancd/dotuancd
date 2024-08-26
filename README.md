@@ -60,14 +60,6 @@ Các Framework hay sử dụng: **Laravel**, **Slim**, **Akka**
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="40">
 
-## Buy me a beer
-
-### ![MoMo](https://momo.vn/favicon-32x32.png)
-![Alt text](momo-qr.png)
-
-### ![Bank](https://www.vietcombank.com.vn/-/media/Project/VCB-Sites/VCB/Home-page/Footer/KHCN/VCB_color.svg)
-![Alt text](bank-qr.png)
-
 <!--
 **dotuancd/dotuancd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
